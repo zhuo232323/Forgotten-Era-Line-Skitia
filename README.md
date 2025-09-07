@@ -1,4 +1,4 @@
-# F.E.L.S
+# F.E.L.S.
 这里储存着Forgotten Era Line:Skitia服务器的新闻和更新日志！
 ### BUG 上报指引
 如果你在游玩Forgotten Era Line:Skitia时遇到了 BUG，请按照以下步骤进行报告：
